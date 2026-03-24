@@ -18,16 +18,16 @@ The project has been refactored from a traditional multi-page HTML structure int
 ## 📂 Project Structure
 
 ```text
-grace-amidu-news/
+.
 ├── index.html          # Main Application Shell (SPA Container)
 ├── assets/
 │   ├── css/
 │   │   └── style.css   # Custom "CNN" Branding & UI Overrides
 │   ├── js/
 │   │   └── app.js      # Core Logic: API Fetching & DOM Injection
-│   ├── IMAGES/         # Brand Assets (Logo, Favicons)
-│   ├── AUDIOS/         # Local Media (JUDAH.m4a, WINNER.m4a)
-│   └── VIDEOS/         # Featured Media (GIDE.mp4)
+│   ├── images/         # Brand Assets (Logo, Favicons)
+│   ├── audio/          # Local Media (JUDAH.m4a, WINNER.m4a)
+│   └── video/          # Featured Media (GIDE.mp4)
 └── README.md           # Documentation
 ```
 

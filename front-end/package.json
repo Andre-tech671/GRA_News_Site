@@ -1,0 +1,14 @@
+{
+  "name": "gra-news-site",
+  "version": "1.0.0",
+  "dependencies": {
+    "bootstrap": "^5.3.8"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^8.0.2"
+  }
+}
