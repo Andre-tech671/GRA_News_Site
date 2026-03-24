@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>HTML Only News Site</title>
+</head>
+<body>
+
+<header>
+<h1>Grace Andre Amidu</h1>
+<p>Latest news, politics, and sport</p>
+</header>
+
+<hr>
+
+<main>
+<h2>Top Story</h2>
+<p>Breaking news goes here...</p>
+</main>
+
+</body>
+</html>
